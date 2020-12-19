@@ -7,3 +7,9 @@ xgboost=0.90
 
 ## Simple demo
 TODO
+
+## next to do
+* [ ] add module to deal train feature
+* [ ] add xgboost classifier module
+* [ ] add scritps to run whole model
+* [ ] finish simple demo
