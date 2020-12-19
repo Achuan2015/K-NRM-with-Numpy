@@ -3,7 +3,7 @@ K-NRM (a kernel based neural model for document ranking) 模型的纯numpy实现
 
 # Requirements
 Python=3.6
-xgboost=0.81
+xgboost=0.90
 
 ## Simple demo
 TODO
