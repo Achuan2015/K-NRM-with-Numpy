@@ -1,0 +1,7 @@
+model:
+        n_kernels: 11
+        query_max_len: 20
+        target_max_len: 20
+        batch_size: 50
+        n_grams: 3
+        xgb_model: data/boston_demo.pkl
